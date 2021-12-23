@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SshaileshsS
-- 👀 I’m interested in Ionic And Angular App along with AspNetCore-WebApi
+- 👀 I’m interested in Ionic And Angular App along with AspNetCore
 - 🌱 I’m currently learning Ionic Angular 
 - 💞️ I’m looking to collaborate on Ionic Native Functionality
 - 📫 How to reach me Shailesh208ss@gmail.com
