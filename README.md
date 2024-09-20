@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SshaileshsS
+- 👋 Hi, I’m Shailesh Sharma
 - 👀 I’m interested in Ionic And Angular App along with AspNetCore
 - 🌱 I’m currently learning Ionic Angular 
 - 💞️ I’m looking to collaborate on Ionic Native Functionality
